@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pillow>=10.0
+pillow-heif>=0.16   # reads iPhone HEIC photos (optional but recommended)
+google-genai>=1.0
+ultralytics>=8.3
